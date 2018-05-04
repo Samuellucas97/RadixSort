@@ -5,7 +5,11 @@ Neste repositório é implementado o algoritmo de ordenação denominado __Radix
 
 ## O que é o Radix Sort?
 
-Em ciência da computação, radix sort é um algoritmo de ordenação que ordena inteiros processando dígitos individuais. Como os inteiros podem representar strings compostas de caracteres (como nomes ou datas) e pontos flutuantes especialmente formatados, radix sort não é limitado somente a inteiros.O objetivo desta árvore é estruturar os dados de forma a permitir busca binária. [Wikipedia]: https://pt.wikipedia.org/wiki/Radix_sort
+Em ciência da computação, radix sort é um algoritmo de ordenação que ordena inteiros processando dígitos individuais. Como os inteiros podem representar strings compostas de caracteres (como nomes ou datas) e pontos flutuantes especialmente formatados, radix sort não é limitado somente a inteiros.O objetivo desta árvore é estruturar os dados de forma a permitir busca binária. 
+[Wikipedia]
+
+
+[Wikipedia]: https://pt.wikipedia.org/wiki/Radix_sort
 
 ## Requisitos mínimos
 
