@@ -6,7 +6,6 @@
  * @version	0.0.10
 */
 
-
 /// BIBLIOTECAS USADAS (STL)
 
 #include <iostream>	/// cin, cout, endl
