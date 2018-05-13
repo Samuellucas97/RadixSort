@@ -9,6 +9,11 @@ Em ciência da computação, radix sort é um algoritmo de ordenação que orden
 [Wikipedia]
 
 
+<p align="center">
+<img src="https://www.codingeek.com/wp-content/uploads/2017/02/radix.png" width="50%"  />
+</p>
+
+
 [Wikipedia]: https://pt.wikipedia.org/wiki/Radix_sort
 
 ## Requisitos mínimos
