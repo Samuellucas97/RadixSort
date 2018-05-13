@@ -10,7 +10,7 @@ Em ciência da computação, radix sort é um algoritmo de ordenação que orden
 
 
 <p align="center">
-<img src="https://ds055uzetaobb.cloudfront.net/image_optimizer/22630368cbc032ea43967b2610e73ded399e22a4.png" width="50%"  />
+<img src="https://ds055uzetaobb.cloudfront.net/image_optimizer/22630368cbc032ea43967b2610e73ded399e22a4.png" width="70%"  />
 </p>
 
 
